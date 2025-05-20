@@ -1,5 +1,5 @@
-
-RAG LangChain Chatbot
+**
+RAG LangChain Chatbot**
 
 This project implements a chatbot using LangChain with a Retrieval-Augmented Generation (RAG) architecture powered by Gemini (Google Generative AI). It allows users to ask questions about a given dataset and receive accurate, context-aware responses.
 
